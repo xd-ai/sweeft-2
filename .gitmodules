@@ -1,0 +1,3 @@
+[submodule "URL-Shortener"]
+	path = URL-Shortener
+	url = https://github.com/xd-ai/URL-Shortener
